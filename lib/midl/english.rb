@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "english/version"
+require_relative 'english/version'
 
 module Midl
   module English
